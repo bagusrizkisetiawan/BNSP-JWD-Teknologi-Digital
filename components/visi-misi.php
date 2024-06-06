@@ -2,11 +2,11 @@
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-lg-5">
-                <h1>Visi & Misi</h1>
-                <p class="text-secondary mb-3 mt-4">
+                <h1 data-aos="fade-up">Visi & Misi</h1>
+                <p class="text-secondary mb-3 mt-4" data-aos="fade-up">
                     "Menjadi pemimpin global dalam inovasi teknologi, menyediakan solusi perangkat lunak yang mengubah cara dunia bekerja dan berinteraksi."
                 </p>
-                <ul class="text-secondary">
+                <ul class="text-secondary" data-aos="fade-up">
                     <li>
                         Menghadirkan Solusi Terbaik: Membangun dan mengembangkan perangkat lunak berkualitas tinggi yang memenuhi kebutuhan unik setiap klien, dengan fokus pada inovasi dan efisiensi.
                     </li>
@@ -19,7 +19,7 @@
                 </ul>
             </div>
             <div class="col-lg-6">
-                <img src="https://images.pexels.com/photos/574077/pexels-photo-574077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" class="w-100 h-100 rounded">
+                <img src="https://images.pexels.com/photos/574077/pexels-photo-574077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" class="w-100 h-100 rounded" data-aos="fade-up">
             </div>
         </div>
     </div>

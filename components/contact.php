@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row align-items-center justify-content-around">
             <div class="col-lg-5 ">
-                <h1 class="mb-4">Contact Me</h1>
-                <form action="">
+                <h1 class="mb-4" data-aos="fade-up">Contact Me</h1>
+                <form action="" data-aos="fade-up">
                     <input type="text" class="form-control mb-3 p-2" placeholder="Nama">
                     <input type="text" class="form-control mb-3 p-2" placeholder="Email">
                     <textarea name="" id="" class="form-control mb-3 p-2" placeholder="Pesan"></textarea>
@@ -11,7 +11,7 @@
                 </form>
             </div>
             <div class="col-lg-5">
-                <img src="https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" class="w-100 h-100 rounded">
+                <img src="https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" class="w-100 h-100 rounded" data-aos="fade-up">
             </div>
         </div>
     </div>
